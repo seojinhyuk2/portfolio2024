@@ -500,7 +500,7 @@
 .hooms-N7 .modalll-cont .view-cont{display: flex;}
 .hooms-N7 .modalll-cont .view-cont .player{position: relative; width: 100%;}
 .hooms-N7 .modalll-cont .view-cont .player::after{padding-bottom: 56.25%; content: ""; display: block;}
-.hooms-N7 .modalll-cont .view-cont .player img{position: absolute; width: 100%;  height: 120%; border: none; object-fit: contain; }
+.hooms-N7 .modalll-cont .view-cont .player img{position: absolute; width: 100%;  height: 110%; border: none; object-fit: contain; }
 
 
 
