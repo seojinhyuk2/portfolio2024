@@ -219,14 +219,14 @@
  .hooms-N54 .header-fullmenu-dark .fullmenu-head { height: 6rem; }
  .hooms-N54 .header-fullmenu-dark .fullmenu-logo { width: 2.3rem; height: 2.7rem; }
  
- .hooms-N54 .header-fullmenu-dark h5{font-size: 25px; font-family: sans-serif; color: #fff; }
- .hooms-N54 .header-fullmenu-dark .card{  position: relative;
-  width: 70px;
-  height: 85px;  
+ .hooms-N54 .header-fullmenu-dark h5{font-size: 1px; font-family: sans-serif; color: #fff;text-align : left }
+ .hooms-N54 .header-fullmenu-dark .card{ 
+  width: 153px;
+  height: 108px;  
   justify-content: center;
   align-items: center;}
   
- 
+  
  
 
 

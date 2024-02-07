@@ -14,8 +14,8 @@
 }
 .container .card{
     position: relative;
-    width: 220px;
-    height: 250px;
+    width: 220px; 
+    height: 250px; 
     background: #2a2a2a;
     display: flex;
     justify-content: center;
