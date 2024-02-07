@@ -219,10 +219,10 @@
  .hooms-N54 .header-fullmenu-dark .fullmenu-head { height: 6rem; }
  .hooms-N54 .header-fullmenu-dark .fullmenu-logo { width: 2.3rem; height: 2.7rem;}
  
- .hooms-N54 .header-fullmenu-dark h5{font-size: 2px; font-family: sans-serif; color: #fff;text-align : left }
+ .hooms-N54 .header-fullmenu-dark h5{font-size: 0px; font-family: sans-serif; color: #fff;text-align : left }
  .hooms-N54 .header-fullmenu-dark .card{ 
   width: 152px;
-  height: 108px;  
+  height: 100px;  
   justify-content: center;
   align-items: center;}
   
